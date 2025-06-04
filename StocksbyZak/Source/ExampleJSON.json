@@ -1,0 +1,177 @@
+[
+  {
+    "name": "Apple",
+    "ticker": "APPL",
+    "price": 240.18,
+    "price_change_24hrs": 1.43,
+    "is_featured": true
+  },
+  {
+    "name": "Meta Platforms",
+    "ticker": "META",
+    "price": 661.86,
+    "price_change_24hrs": -11.54,
+    "is_featured": false
+  },
+  {
+    "name": "Alphabet",
+    "ticker": "GOOG",
+    "price": 170.21,
+    "price_change_24hrs": -4.49,
+    "is_featured": false
+  },
+  {
+    "name": "Amazon.com",
+    "ticker": "AMZN",
+    "price": 208.74,
+    "price_change_24hrs": 7.61,
+    "is_featured": false
+  },
+  {
+    "name": "Gamestop",
+    "ticker": "GME",
+    "price": 24.48,
+    "price_change_24hrs": -0.18,
+    "is_featured": false
+  },
+  {
+    "name": "Microsoft",
+    "ticker": "MSFT",
+    "price": 392.53,
+    "price_change_24hrs": -7.2,
+    "is_featured": false
+  },
+  {
+    "name": "Intel",
+    "ticker": "INTC",
+    "price": 23.09,
+    "price_change_24hrs": 0.43,
+    "is_featured": false
+  },
+  {
+    "name": "Tesla",
+    "ticker": "TSLA",
+    "price": 281.95,
+    "price_change_24hrs": -8.85,
+    "is_featured": true
+  },
+  {
+    "name": "Nvidia",
+    "ticker": "NVDA",
+    "price": 120.15,
+    "price_change_24hrs": 11.13,
+    "is_featured": true
+  },
+  {
+    "name": "Starbucks",
+    "ticker": "SBUX",
+    "price": 114.49,
+    "price_change_24hrs": 1.49,
+    "is_featured": false
+  },
+  {
+    "name": "Walmart",
+    "ticker": "WMT",
+    "price": 96.79,
+    "price_change_24hrs": 0.59,
+    "is_featured": true
+  },
+  {
+    "name": "Target",
+    "ticker": "TGT",
+    "price": 122.5,
+    "price_change_24hrs": -1.54,
+    "is_featured": false
+  },
+  {
+    "name": "Netflix",
+    "ticker": "NFLX",
+    "price": 963.07,
+    "price_change_24hrs": 26.99,
+    "is_featured": false
+  },
+  {
+    "name": "Walt Disney",
+    "ticker": "DIS",
+    "price": 111.31,
+    "price_change_24hrs": -0.52,
+    "is_featured": true
+  },
+  {
+    "name": "Comcast",
+    "ticker": "CMCSA",
+    "price": 35.39,
+    "price_change_24hrs": 0.29,
+    "is_featured": false
+  },
+  {
+    "name": "Bank of America",
+    "ticker": "BAC",
+    "price": 44.12,
+    "price_change_24hrs": 1.08,
+    "is_featured": false
+  },
+  {
+    "name": "Pfizer",
+    "ticker": "PFE",
+    "price": 26.1,
+    "price_change_24hrs": 0.32,
+    "is_featured": false
+  },
+  {
+    "name": "MicroStrategy",
+    "ticker": "MSTR",
+    "price": 249.05,
+    "price_change_24hrs": -23.22,
+    "is_featured": false
+  },
+  {
+    "name": "Boeing",
+    "ticker": "BA",
+    "price": 173.83,
+    "price_change_24hrs": -3.78,
+    "is_featured": true
+  },
+  {
+    "name": "Lockheed Martin",
+    "ticker": "LMT",
+    "price": 446.46,
+    "price_change_24hrs": 4.98,
+    "is_featured": false
+  },
+  {
+    "name": "General Electric",
+    "ticker": "GE",
+    "price": 201.43,
+    "price_change_24hrs": -5.32,
+    "is_featured": false
+  },
+  {
+    "name": "Ford Motor",
+    "ticker": "F",
+    "price": 9.29,
+    "price_change_24hrs": -0.41,
+    "is_featured": false
+  },
+  {
+    "name": "Reddit",
+    "ticker": "RDDT",
+    "price": 159.78,
+    "price_change_24hrs": -8.32,
+    "is_featured": false
+  },
+  {
+    "name": "Snap",
+    "ticker": "SNAP",
+    "price": 9.99,
+    "price_change_24hrs": 0.23,
+    "is_featured": false
+  },
+  {
+    "name": "Snap",
+    "ticker": "SNAP",
+    "price": 9.99,
+    "price_change_24hrs": 0.23,
+    "is_featured": false
+  }
+]
